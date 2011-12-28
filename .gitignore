@@ -29,3 +29,7 @@ tmp/**/*
 
 # CDT-specific
 .cproject
+
+# Maven
+target
+*/target/*
