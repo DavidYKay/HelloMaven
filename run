@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Clean, compile, install, and run
+mvn clean install android:deploy; mvn exec:exec
